@@ -39,3 +39,13 @@ papers.
  * **Materials**:
 
 ---
+
+
+ * **Date**: Friday, Oct 6, 2017
+ * **Time**: 11:30am-12:30pm
+ * **Room**: Bioengineering Building, Conference Room 1000, 775 Woodlot Dr.
+ * **Presenter(s)**: Gabriel
+ * **Topic(s)**: Semester Plans
+ * **Materials**:
+
+---
